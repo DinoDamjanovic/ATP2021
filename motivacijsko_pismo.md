@@ -1,23 +1,16 @@
 **Dino Damjanović**
-Put Plovanije 22
+Put Plovanije
 23000 Zadar
 Mob. 095-567-2176
+e-mail: ddin0@hotmail.com
 Zadar, 27. studenog 2020.
 
 ***Prima:***
 **CARNET**
 Josipa Marohnića 5, 10000 Zagreb 
-
+# ZAMOLBA ZA POSAO
 Poštovani/a,
 
-    Osobni podaci
-        Ime i prezime
-        Adresa
-        Poštanski broj
-        Mjesto
-        Zemlja
-        E-mail i ostali kontakt podaci
-    Pojedinosti o osobi/organizaciji kojoj je dokument upućen
-    Grad, datum i predmet
-    Sadržaj motivacijskog pisma
-    Završni dio obraćanja
+Ovim putem se javljam na natječaj objavljem na portalu MojPosao
+Sadržaj motivacijskog pisma
+Završni dio obraćanja

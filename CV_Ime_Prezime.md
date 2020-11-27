@@ -40,9 +40,8 @@
 **Poslodavac:** Elmar\
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
-**Od – Do:** 12/2018 - 05/2019\
+**Od – Do:** 12/2018 - 05/2019  \
 **Glavne aktivnosti i odgovornosti:** ugradnja, popravak i servis električnih, elektroničkih i mehaničkih dijelova za brodove
-
 
 ---
 ##### 5. Obrazovanje i osposobljavanje
@@ -58,14 +57,14 @@
 **Naziv stečene kvalifikacije:** Web dizajner\
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
-**Od – Do:** 05/2014 - 09/2014\
-<br/>
+**Od – Do:** 05/2014 - 09/2014
 
 **Organizacija koja pruža obrazovanje i osposobljavanje:** Tehnička škola Zadar
 **Naziv stečene kvalifikacije:** Tehničar za elektroniku
 **Mjesto:** Zadar
 **Zemlja:** Hrvatska
 **Od – Do:** 2005 - 2009
+
 ---
 ##### 6. Jezične vještine
 
@@ -90,7 +89,7 @@ Excel              |            /              |           /           | GitHub
 ---
 ##### 8. Hobiji i interesi
 
-* **Naziv:** Biciklizam\
+**Naziv:** Biciklizam\
 **Opis:** Rekreativno se bavim biciklizmom; uglavnom brdskim biciklizmom, no povremeno volim sjesti i na cestovni bicikl. Također se bavim održavanjem i popravljanjem bicikala u kućnoj radinosti.
 
 ##### 9. Vozačka dozvola
