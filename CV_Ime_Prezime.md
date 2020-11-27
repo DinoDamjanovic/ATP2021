@@ -28,7 +28,7 @@
 ---
 ##### 4. Radno iskustvo
 
-* **Zanimanje ili radno mjesto:** Mehaničar
+**Zanimanje ili radno mjesto:** Mehaničar
 **Poslodavac:** DSV
 **Mjesto:** Landskrona
 **Zemlja:** Švedska
@@ -36,7 +36,7 @@
 **Glavne aktivnosti i odgovornosti:** popravak i servisiranje teretnih poluprikolicabrodove
 <br/>
 
-* **Zanimanje ili radno mjesto:** Serviser jahti
+**Zanimanje ili radno mjesto:** Serviser jahti
 **Poslodavac:** Elmar
 **Mjesto:** Zadar
 **Zemlja:** Hrvatska
@@ -47,21 +47,21 @@
 ---
 ##### 5. Obrazovanje i osposobljavanje
 
-* **Organizacija koja pruža obrazovanje i osposobljavanje:** Sveučilište u Zadru
+**Organizacija koja pruža obrazovanje i osposobljavanje:** Sveučilište u Zadru
 **Naziv stečene kvalifikacije:** Stručni prvostupnik informacijskih tehnologija
 **Mjesto:** Zadar
 **Zemlja:** Hrvatska
 **Od – Do:** 2020 - u tijeku
 <br/>
 
-* **Organizacija koja pruža obrazovanje i osposobljavanje:** POU Algebra
+**Organizacija koja pruža obrazovanje i osposobljavanje:** POU Algebra
 **Naziv stečene kvalifikacije:** Web dizajner
 **Mjesto:** Zadar
 **Zemlja:** Hrvatska
 **Od – Do:** 05/2014 - 09/2014
 <br/>
 
-* **Organizacija koja pruža obrazovanje i osposobljavanje:** Tehnička škola Zadar
+**Organizacija koja pruža obrazovanje i osposobljavanje:** Tehnička škola Zadar
 **Naziv stečene kvalifikacije:** Tehničar za elektroniku
 **Mjesto:** Zadar
 **Zemlja:** Hrvatska
