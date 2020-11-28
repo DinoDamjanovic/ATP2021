@@ -112,10 +112,9 @@ Sustavi za verzioniranje i suradnički rad |       Git, GitHub         |
 ---
 ##### 9. Vozačka dozvola
 
-Motocikli |	Automobili |	Kamioni |	Drugo
-:--------:|:----------:|:----------:|:-------:
-**Am**    |     B1     |	C1      |	D1
-A1        |	    **B**  |	C1E     | 	D1E
-A2        |		       |    C       |	D
-A         |	    BE     |	CE      |	DE
->***Dozvole koje posjedujem označene su podebljanim slovima***
+Vrsta vozila |  Kategorija |
+:-----------:|:-----------:|
+Motocikli    |     Am      |
+Automobili   |	   B       |
+Kamioni      |	   /       |
+Drugo        |	   F, G    |
