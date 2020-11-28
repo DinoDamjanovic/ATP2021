@@ -5,25 +5,28 @@
 ---
 ##### 1. Osobni podaci
 
-* **Ime:** Dino
-* **Prezime:** Damjanović
-* **O meni:** Student sam prve godine Informacijskih tehnologija i tražim poslove/projekte koji će mi pomoći u razvijanju relevantnih vještina i stjecanju iskustava.
-* **Datum rođenja:** 07.12.1990.
-* **Spol:** Muško
-* **Državljanstvo:** Hrvatsko
+**Ime:** Dino
+**Prezime:** Damjanović
+**O meni:** Student sam prve godine Informacijskih tehnologija i tražim poslove/projekte koji će mi pomoći u razvijanju relevantnih vještina i stjecanju iskustava.
+**Datum rođenja:** 07.12.1990.
+**Spol:** Muško
+**Državljanstvo:** Hrvatsko
+
 ---
 ##### 2. Kontakt
 
-* **E-adresa:** ddin0@hotmail.com
-* **Telefonski broj:** 095-567-2176
-* **Trenutna razmjena poruka:** Whatsapp
+**E-adresa:** ddin0@hotmail.com
+**Telefonski broj:** 095-567-2176
+**Trenutna razmjena poruka:** Whatsapp
+
 ---
 ##### 3. Adresa
 
-* **Adresa:** Put Plovanije
-* **Poštanski broj:** 23000
-* **Mjesto:** Zadar
-* **Zemlja:** Hrvatska
+**Adresa:** Put Plovanije
+**Poštanski broj:** 23000
+**Mjesto:** Zadar
+**Zemlja:** Hrvatska
+
 ---
 ##### 4. Radno iskustvo
 
