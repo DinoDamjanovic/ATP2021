@@ -46,7 +46,6 @@
 ##### 5. Obrazovanje i osposobljavanje
 
 **Organizacija koja pruža obrazovanje i osposobljavanje:** Sveučilište u Zadru\
-**Naziv stečene kvalifikacije:** Stručni prvostupnik informacijskih tehnologija\
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
 **Od – Do:** 2020 - u tijeku
