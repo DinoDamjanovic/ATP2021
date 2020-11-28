@@ -7,7 +7,8 @@ Zadar, 27. studenog 2020.
 
 ***Prima:***\
 **CARNET**\
-Josipa Marohnića 5, 10000 Zagreb
+Josipa Marohnića 5\
+10000 Zagreb
 # ZAMOLBA
 Poštovani/a,
 
