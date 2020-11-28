@@ -5,7 +5,7 @@ Mob. 095-567-2176\
 e-mail: ddin0@hotmail.com\
 Zadar, 27. studenog 2020.
 
-***Prima:***\
+**Prima:**\
 **CARNET**\
 Josipa Marohnića 5\
 10000 Zagreb
