@@ -101,7 +101,6 @@ Naziv                                     |           Vještine        |
 :----------------------------------------:| :-----------------------: |
 Uredsko poslovanje                        |       Word, Excel         |
 Osnove programskih jezika                 |       Python, C           |
-Rad s bazama podataka                     |              /            |
 Sustavi za verzioniranje i suradnički rad |       Git, GitHub         |
 
 ---
