@@ -39,8 +39,22 @@
 **Poslodavac:** Elmar\
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
-**Od – Do:** 12/2018 - 05/2019  \
+**Od – Do:** 12/2018 - 04/2019  \
 **Glavne aktivnosti i odgovornosti:** ugradnja, popravak i servis električnih, elektroničkih i mehaničkih dijelova za brodove
+
+**Zanimanje ili radno mjesto:** Trgovac\
+**Poslodavac:** Lidl\
+**Mjesto:** Zadar\
+**Zemlja:** Hrvatska\
+**Od – Do:** 05/2017 - 09/2017  \
+**Glavne aktivnosti i odgovornosti:** rad sa robom u skladištu i u dućanu, opsluživanje kupaca, rad na blagajni
+
+**Zanimanje ili radno mjesto:** Voditelj bookinga za apartmane\
+**Poslodavac:** Turistička agencija Forteca\
+**Mjesto:** Korčula\
+**Zemlja:** Hrvatska\
+**Od – Do:** 5/2014 - 09/2014  \
+**Glavne aktivnosti i odgovornosti:** Sezonski posao; odnos s gostima, informiranje gostiju o popularnim lokacijama i aktivnostima u gradu, obrađivanje upita / rezervacija za apartmane
 
 ---
 ##### 5. Obrazovanje i osposobljavanje
