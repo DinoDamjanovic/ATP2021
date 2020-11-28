@@ -59,10 +59,10 @@
 **Zemlja:** Hrvatska\
 **Od – Do:** 05/2014 - 09/2014
 
-**Organizacija koja pruža obrazovanje i osposobljavanje:** Tehnička škola Zadar
-**Naziv stečene kvalifikacije:** Tehničar za elektroniku
-**Mjesto:** Zadar
-**Zemlja:** Hrvatska
+**Organizacija koja pruža obrazovanje i osposobljavanje:** Tehnička škola Zadar\
+**Naziv stečene kvalifikacije:** Tehničar za elektroniku\
+**Mjesto:** Zadar\
+**Zemlja:** Hrvatska\
 **Od – Do:** 2005 - 2009
 
 ---
