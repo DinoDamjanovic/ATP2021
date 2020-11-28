@@ -1,13 +1,13 @@
-**Dino Damjanović**
-Put Plovanije
-23000 Zadar
-Mob. 095-567-2176
-e-mail: ddin0@hotmail.com
+**Dino Damjanović**\
+Put Plovanije\
+23000 Zadar\
+Mob. 095-567-2176\
+e-mail: ddin0@hotmail.com\
 Zadar, 27. studenog 2020.
 
-***Prima:***
-**CARNET**
-Josipa Marohnića 5, 10000 Zagreb 
+***Prima:***\
+**CARNET**\
+Josipa Marohnića 5, 10000 Zagreb
 # ZAMOLBA
 Poštovani/a,
 
