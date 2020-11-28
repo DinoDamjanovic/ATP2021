@@ -32,7 +32,7 @@
 **Mjesto:** Landskrona\
 **Zemlja:** Švedska\
 **Od – Do:** 05/2019 - 08/2019\
-**Glavne aktivnosti i odgovornosti:** popravak i servisiranje teretnih poluprikolicabrodove
+**Glavne aktivnosti i odgovornosti:** popravak i servisiranje teretnih poluprikolica
 <br/>
 
 **Zanimanje ili radno mjesto:** Serviser jahti\
@@ -54,7 +54,7 @@
 **Mjesto:** Korčula\
 **Zemlja:** Hrvatska\
 **Od – Do:** 5/2014 - 09/2014  \
-**Glavne aktivnosti i odgovornosti:** Sezonski posao; odnos s gostima, informiranje gostiju o popularnim lokacijama i aktivnostima u gradu, obrađivanje upita / rezervacija za apartmane
+**Glavne aktivnosti i odgovornosti:** sezonski posao; odnos s gostima, informiranje gostiju o popularnim lokacijama i aktivnostima u gradu, obrađivanje upita / rezervacija za apartmane
 
 ---
 ##### 5. Obrazovanje i osposobljavanje
