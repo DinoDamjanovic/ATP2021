@@ -47,7 +47,7 @@
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
 **Od – Do:** 05/2017 - 09/2017  \
-**Glavne aktivnosti i odgovornosti:** rad sa robom u skladištu i u dućanu, opsluživanje kupaca, rad na blagajni
+**Glavne aktivnosti i odgovornosti:** sezonski posao; rad sa robom u skladištu i u dućanu, opsluživanje kupaca, rad na blagajni
 
 **Zanimanje ili radno mjesto:** Voditelj bookinga za apartmane\
 **Poslodavac:** Turistička agencija Forteca\
