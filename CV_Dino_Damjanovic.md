@@ -1,5 +1,4 @@
 # Životopis
----
 ##### Fotografija
 ![Profilna fotografija](img/profile.jpg)
 
