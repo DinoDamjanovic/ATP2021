@@ -109,6 +109,7 @@ Sustavi za verzioniranje i suradnički rad |       Git, GitHub         |
 **Naziv:** Biciklizam\
 **Opis:** Rekreativno se bavim biciklizmom; uglavnom brdskim biciklizmom, no povremeno volim sjesti i na cestovni bicikl. Također se bavim održavanjem i popravljanjem bicikala u kućnoj radinosti.
 
+---
 ##### 9. Vozačka dozvola
 
 Motocikli |	Automobili |	Kamioni |	Drugo
