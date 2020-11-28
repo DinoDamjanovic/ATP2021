@@ -62,7 +62,7 @@
 ---
 ##### 5. Obrazovanje i osposobljavanje
 
-**Organizacija koja pruža obrazovanje i osposobljavanje:** Preddiplomski stručni studij Informacijskih - Sveučilište u Zadru\
+**Organizacija koja pruža obrazovanje i osposobljavanje:** Preddiplomski stručni studij Informacijskih Tehnologija - Sveučilište u Zadru\
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
 **Od – Do:** 2020 - u tijeku
