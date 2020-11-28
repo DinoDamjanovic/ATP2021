@@ -62,7 +62,7 @@
 ---
 ##### 5. Obrazovanje i osposobljavanje
 
-**Organizacija koja pruža obrazovanje i osposobljavanje:** Sveučilište u Zadru\
+**Organizacija koja pruža obrazovanje i osposobljavanje:** Preddiplomski stručni studij Informacijskih - Sveučilište u Zadru\
 **Mjesto:** Zadar\
 **Zemlja:** Hrvatska\
 **Od – Do:** 2020 - u tijeku
@@ -97,10 +97,13 @@
 ---
 ##### 7. Digitalne vještine
 
-Uredsko poslovanje | Osnove programskih jezika | Rad s bazama podataka | Sustavi za verzioniranje i suradnički rad
-:----------------: | :-----------------------: | :-------------------: | :---------------------------------------:
-Word               |         Python            |           /           | Git
-Excel              |            /              |           /           | GitHub
+Naziv                                     |           Vještine        |
+:----------------------------------------:| :-----------------------: |
+Uredsko poslovanje                        |       Word, Excel         |
+Osnove programskih jezika                 |       Python, C           |
+Rad s bazama podataka                     |              /            |
+Sustavi za verzioniranje i suradnički rad |       Git, GitHub         |
+
 ---
 ##### 8. Hobiji i interesi
 
