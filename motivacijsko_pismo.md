@@ -18,5 +18,5 @@ Ovim putem želim iskazati svoju snažnu želju za učenjem i daljnjim usavršav
 
 Htio bih Vam se unaprijed zahvaliti na utrošenom vremenu. Nadam se da će te prepoznati moju snažnu i iskrenu želju za suradnju s Vašom firmom. U iščekivanju Vašeg odgovora, srdačno Vas pozdravljam.
 
-S poštovanjem,
+S poštovanjem,\
 Dino Damjanović
